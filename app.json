@@ -1,0 +1,12 @@
+{
+  "name": "get_sentiment",
+  "displayName": "get_sentiment",
+  "expo": {
+    "name": "get_sentiment",
+    "slug": "get_sentiment",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
